@@ -1,0 +1,22 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.45" stop-color="#111827"/>
+      <stop offset="1" stop-color="#052e2b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <path d="M72 275H1128" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="1008" cy="82" r="54" fill="#22c55e" opacity="0.14"/>
+  <circle cx="1082" cy="145" r="82" fill="#38bdf8" opacity="0.10"/>
+  <text x="72" y="112" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">André Rossato Silva</text>
+  <text x="72" y="168" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Desenvolvedor Full Stack</text>
+  <text x="72" y="220" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">React • Node.js • Electron • Firebase • Supabase • Automação comercial</text>
+  <text x="72" y="315" fill="#d1fae5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Produtos web e desktop com foco em operação real, UX e integrações.</text>
+</svg>
