@@ -22,7 +22,6 @@
 
     <header class="site-header reveal">
       <a class="brand" href="#top" aria-label="Início">
-        <img src="./assets/gamematch-icon.png" alt="" width="36" height="36" />
         <span>Andromedael-code</span>
       </a>
       <nav class="nav" aria-label="Navegação principal">
@@ -63,7 +62,12 @@
               <span>Interface interativa</span>
               <strong>01</strong>
             </div>
-            <img src="./assets/gamematch-icon.png" alt="Ícone do GameMatch" />
+            <div class="hero-chip-grid" aria-hidden="true">
+              <span>React</span>
+              <span>Node</span>
+              <span>UI</span>
+              <span>Deploy</span>
+            </div>
             <h2>Portfólio em movimento</h2>
             <p>Scroll reveal, cards interativos, brilho no cursor e microanimações com fallback para movimento reduzido.</p>
           </article>
@@ -125,6 +129,10 @@
           </article>
 
           <article class="project-card reveal tilt-card" data-reveal-delay="80">
+            <div class="project-media">
+              <img src="./assets/gustech-logo.png" alt="" />
+              <span class="pulse-dot"></span>
+            </div>
             <div class="project-meta">
               <span>Produção ativa</span>
               <span>Node.js + Express</span>
@@ -141,6 +149,9 @@
           </article>
 
           <article class="project-card reveal tilt-card" data-reveal-delay="160">
+            <div class="project-media project-media--static">
+              <img src="./assets/serveai-logo.png" alt="" />
+            </div>
             <div class="project-meta">
               <span>Projeto privado</span>
               <span>Electron + Supabase</span>
@@ -148,11 +159,14 @@
             <h3>ServeAI</h3>
             <p>
               Sistema para restaurantes com PDV, cardápio online, pedidos, caixa, relatórios, WhatsApp
-              e robô de atendimento. Usei o fluxo de pagamento dele como referência para Gustech.
+              e robô de atendimento para operações comerciais.
             </p>
           </article>
 
           <article class="project-card reveal tilt-card" data-reveal-delay="240">
+            <div class="project-media project-media--static">
+              <img src="./assets/autowap-logo.png" alt="" />
+            </div>
             <div class="project-meta">
               <span>Projeto público</span>
               <span>Electron + CRM</span>
