@@ -1,12 +1,21 @@
 ![Banner do perfil](./assets/profile-banner.svg)
 
-# Olá, eu sou André Rossato Silva
+# André Luis Rossato Silva
 
-Sou desenvolvedor full stack e construo produtos web e desktop com foco em automação comercial, operação de negócios e experiências digitais bem acabadas.
+**Desenvolvedor Full Stack Jr.** usando a marca **Andromedael-code** no GitHub. Construo aplicações web e desktop com React, Node.js, Firebase, Supabase e Electron, unindo experiência em suporte/TI com desenvolvimento de produtos, automações e integrações.
 
-Meu trabalho combina frontend responsivo, backend, banco de dados, autenticação, integrações externas, deploy e empacotamento desktop. Gosto de tirar ideias do papel e levar até uma versão utilizável, com interface clara e estrutura pronta para evoluir.
+Gosto de transformar problema real em fluxo claro: interface, backend, banco de dados, autenticação, integrações externas, deploy e documentação.
 
-## Stack que uso
+## Portfólio rápido
+
+| Projeto | Destaque | Stack |
+| --- | --- | --- |
+| [GameMatch](https://github.com/Andromedael-code/GameMatch) | App web para descobrir jogos por swipe, salvar favoritos e encontrar matches em grupo. [Demo online](https://gamematch-one.vercel.app) | React, Vite, Firebase, RAWG API, Vercel |
+| [Gustech](https://github.com/Andromedael-code/Gustech) | E-commerce gamer com catálogo, carrinho, checkout, pedidos, favoritos e backend próprio. [Demo online](https://gustech-nine.vercel.app) | JavaScript, Node.js, Express, SQLite/MySQL, Firebase |
+| ServeAI | Sistema privado para restaurantes com PDV, cardápio online, pedidos, caixa, relatórios, WhatsApp e robô de atendimento. | React, TypeScript, Electron, Supabase, Evolution API |
+| [AutoWap](https://github.com/Andromedael-code/AutoWap1.2) | App desktop para atendimento, campanhas, CRM leve e integração com WhatsApp/Evolution API. | Electron, React, TypeScript, Mantine, Prisma, SQLite/PGlite |
+
+## Stack principal
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Vite](https://img.shields.io/badge/Vite-1f2937?style=for-the-badge&logo=vite&logoColor=ffd62e)
@@ -17,33 +26,28 @@ Meu trabalho combina frontend responsivo, backend, banco de dados, autenticaçã
 ![Supabase](https://img.shields.io/badge/Supabase-1f2937?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
-## Projetos em destaque
+## O que eu entrego
 
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| [GameMatch](https://github.com/gustech020-prog/GameMatch) | Descoberta de jogos por swipe, favoritos, salas em grupo e matches compartilhados. Demo: [gamematch-one.vercel.app](https://gamematch-one.vercel.app) | React, Vite, Firebase, RAWG API, Vercel |
-| [Gustech](https://github.com/gustech020-prog/Gustech) | Storefront/e-commerce gamer com catálogo, carrinho, pedidos, favoritos e backend próprio. | JavaScript, Node.js, Express, SQLite/MySQL, Firebase |
-| ServeAI | Sistema para restaurantes com PDV, cardápio online, pedidos, caixa, relatórios, WhatsApp e robô de atendimento. | React, TypeScript, Electron, Supabase, Evolution API |
-| AutoWap | Aplicativo desktop para atendimento, campanhas, CRM leve e integração com WhatsApp/Evolution API. | Electron, React, TypeScript, Mantine, Prisma, SQLite/PGlite |
-
-## O que eu entrego bem
-
-- Interfaces responsivas em React com estados claros e boa experiência de uso.
-- Backends em Node.js/Express com validação, persistência e APIs REST.
-- Integrações com Firebase, Supabase, WhatsApp/Evolution API e APIs externas.
-- Aplicações desktop com Electron e instaladores para Windows.
-- Deploy, organização de repositórios, testes e documentação de projeto.
+- Interfaces responsivas em React com estados claros, navegação simples e boa experiência de uso.
+- Backends em Node.js/Express com APIs REST, validação, autenticação e persistência.
+- Integrações com Firebase, Supabase, RAWG API, WhatsApp/Evolution API e serviços externos.
+- Aplicações desktop com Electron, banco local e instaladores para Windows.
+- Deploy, documentação, organização de repositórios, testes e manutenção evolutiva.
 
 ## Métricas públicas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustech020-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustech020-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Andromedael-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andromedael-code&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ## Links
 
-- GitHub: [github.com/gustech020-prog](https://github.com/gustech020-prog)
+- GitHub: [github.com/Andromedael-code](https://github.com/Andromedael-code)
+- LinkedIn: [linkedin.com/in/andré-luis-rossato-silva-264894344](https://www.linkedin.com/in/andr%C3%A9-luis-rossato-silva-264894344/)
+- WhatsApp: [35 99241-9749](https://wa.me/5535992419749)
+- Portfólio online: [andromedael-portfolio.vercel.app](https://andromedael-portfolio.vercel.app)
 - Demo principal: [GameMatch](https://gamematch-one.vercel.app)
+- Gustech em produção: [gustech-nine.vercel.app](https://gustech-nine.vercel.app)
 
-Aberto a oportunidades e colaborações em desenvolvimento full stack, produtos SaaS, automação comercial e apps web/desktop.
+Aberto a oportunidades como desenvolvedor full stack júnior, suporte técnico com automação, produtos SaaS, sistemas internos e apps web/desktop.
